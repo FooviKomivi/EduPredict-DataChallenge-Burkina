@@ -1,0 +1,5 @@
+# Donnees du challenge (usage concours uniquement) et sorties regenerables : non publiees
+data/
+sortie/
+__pycache__/
+*.pyc
