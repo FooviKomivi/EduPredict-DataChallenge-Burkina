@@ -72,9 +72,18 @@ Le fichier `docs/index.html` est autonome.
 - Tous via le Data Pack du Data Challenge Burkina 2026. Données utilisées uniquement pour le concours.
 
 ## Usage d'un outil d'intelligence artificielle
-Afin de mieux comprendre les objectifs du projet et d'identifier les approches méthodologiques adaptées à la problématique du décrochage scolaire, j'ai sollicité l'accompagnement de ChatGPT pour obtenir des explications sur le sujet et découvrir différentes méthodes envisageables, notamment les approches fondées sur le Machine Learning et le Deep Learning.
+### Démarche documentaire et contribution personnelle
 
-À la suite de ces échanges, j'ai entrepris une recherche documentaire afin de vérifier et d'approfondir les propositions méthodologiques présentées. J'ai ainsi consulté plusieurs publications scientifiques et rapports institutionnels portant sur la prédiction du décrochage scolaire, l'utilisation des algorithmes d'apprentissage automatique dans le domaine éducatif ainsi que les facteurs contextuels susceptibles d'influencer la continuité de la scolarisation.
+Afin de mieux comprendre les objectifs du projet et d'identifier les approches méthodologiques adaptées à la problématique du décrochage scolaire, j'ai sollicité l'accompagnement de ChatGPT pour explorer différentes méthodes, notamment le Machine Learning et le Deep Learning.
 
-Cette démarche m'a permis de mieux comprendre les approches existantes, d'identifier les algorithmes fréquemment utilisés dans la littérature scientifique et de confronter les pistes méthodologiques proposées aux résultats de recherches antérieures. Les références bibliographiques ci-dessous constituent les principales sources documentaires consultées.
-Tout le reste du projet a été fait par moi, du code Python jusqu'au code HTML, ainsi que la présentation du résultat.
+J'ai ensuite effectué une recherche documentaire pour vérifier et approfondir les propositions méthodologiques à travers des publications scientifiques et des rapports institutionnels.
+
+Concernant la réalisation technique, j'ai personnellement pris en charge l'ensemble du développement : préparation et traitement des données, implémentation des modèles en Python, conception de l'interface web en HTML et présentation des résultats. ChatGPT m'a uniquement accompagné dans la compréhension initiale du sujet et l'exploration des approches possibles. La réalisation technique a été effectuée par mes soins.
+
+**Références consultées :**
+
+1. *Predicting Student Dropout based on Machine Learning and Deep Learning: A Systematic Review* (2023) : https://eudl.eu/pdf/10.4108/eetsis.3586
+2. Salinas-Chipana et al., *Machine Learning Models for Predicting Student Dropout, a Review* : https://research.upn.edu.pe/en/publications/machine-learning-models-for-predicting-student-dropouta-review/
+3. UNICEF (2023), situation scolaire au Burkina Faso : https://www.unicef.org/press-releases/burkina-faso-new-academic-year-starts-one-million-children-out-school-due-ongoing
+4. UNICEF (2019), fermetures d'écoles au Sahel : https://www.unicef.org/wca/press-releases/school-closures-sahel-double-last-two-years-due-growing-insecurity-unicef
+5. WATHI (2025), *Education in situations of insecurity in West Africa* : https://wathi.org/wp-content/uploads/2025/04/Education-in-situations-of-insecurity-in-West-Africa.pdf
