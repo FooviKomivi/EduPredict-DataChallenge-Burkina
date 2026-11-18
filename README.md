@@ -43,7 +43,7 @@ data/Tableaux_de_bord/                 versions CSV : 01_Education_MENAPLN_DGESS
 data/COD-AB_limites_administratives/   04_Cartographie_SIG/COD-AB_limites_administratives (bfa_admin_boundaries.xlsx et .geojson.zip)
 ```
 
-Les « versions CSV » sont celles fournies dans le dossier `data/` du Data Pack (même arborescence que les PDF et Excel d'origine). Le lanceur a été testé sur un dossier vide : les résultats sont identiques à ceux de `resultats/`.
+Les « versions CSV » sont celles fournies dans le dossier `data/` du Data Pack (même arborescence que les PDF et Excel d'origine). 
 
 ## Les 10 étapes
 
