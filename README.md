@@ -62,7 +62,7 @@ Les « versions CSV » sont celles fournies dans le dossier `data/` du Data Pack
 
 ## Tableau de bord en ligne
 
-Le fichier `docs/index.html` est autonome. Pour le publier : dans GitHub, **Settings > Pages**, choisir la branche `main` et le dossier `/docs`.
+Le fichier `docs/index.html` est autonome. 
 
 ## Sources
 
@@ -77,4 +77,4 @@ Afin de mieux comprendre les objectifs du projet et d'identifier les approches m
 À la suite de ces échanges, j'ai entrepris une recherche documentaire afin de vérifier et d'approfondir les propositions méthodologiques présentées. J'ai ainsi consulté plusieurs publications scientifiques et rapports institutionnels portant sur la prédiction du décrochage scolaire, l'utilisation des algorithmes d'apprentissage automatique dans le domaine éducatif ainsi que les facteurs contextuels susceptibles d'influencer la continuité de la scolarisation.
 
 Cette démarche m'a permis de mieux comprendre les approches existantes, d'identifier les algorithmes fréquemment utilisés dans la littérature scientifique et de confronter les pistes méthodologiques proposées aux résultats de recherches antérieures. Les références bibliographiques ci-dessous constituent les principales sources documentaires consultées.
-Tout le reste du projet a été fait par moi, du code Python jusqu'au code HTML, ainsi que la présentation du résultat. Il faut me corriger ce code.
+Tout le reste du projet a été fait par moi, du code Python jusqu'au code HTML, ainsi que la présentation du résultat.
