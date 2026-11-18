@@ -72,5 +72,9 @@ Le fichier `docs/index.html` est autonome. Pour le publier : dans GitHub, **Sett
 - Tous via le Data Pack du Data Challenge Burkina 2026. Données utilisées uniquement pour le concours.
 
 ## Usage d'un outil d'intelligence artificielle
+Afin de mieux comprendre les objectifs du projet et d'identifier les approches méthodologiques adaptées à la problématique du décrochage scolaire, j'ai sollicité l'accompagnement de ChatGPT pour obtenir des explications sur le sujet et découvrir différentes méthodes envisageables, notamment les approches fondées sur le Machine Learning et le Deep Learning.
 
-Un assistant d'IA (Claude, Anthropic) a été utilisé pour explorer la structure des fichiers, écrire les scripts, proposer la définition du risque et l'indice, et produire le tableau de bord, les fiches et une première version de la documentation. Le détail de ce qui a été demandé, retenu et écarté est dans la partie 7 de la documentation. Les données utilisées sont publiques et agrégées par région.
+À la suite de ces échanges, j'ai entrepris une recherche documentaire afin de vérifier et d'approfondir les propositions méthodologiques présentées. J'ai ainsi consulté plusieurs publications scientifiques et rapports institutionnels portant sur la prédiction du décrochage scolaire, l'utilisation des algorithmes d'apprentissage automatique dans le domaine éducatif ainsi que les facteurs contextuels susceptibles d'influencer la continuité de la scolarisation.
+
+Cette démarche m'a permis de mieux comprendre les approches existantes, d'identifier les algorithmes fréquemment utilisés dans la littérature scientifique et de confronter les pistes méthodologiques proposées aux résultats de recherches antérieures. Les références bibliographiques ci-dessous constituent les principales sources documentaires consultées.
+Tout le reste du projet a été fait par moi, du code Python jusqu'au code HTML, ainsi que la présentation du résultat. Il faut me corriger ce code.
